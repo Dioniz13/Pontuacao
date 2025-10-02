@@ -1,11 +1,7 @@
-let numero = prompt("Digite um número:");
-numero = Number(numero);
-if (numero>0){
-    alert('Número positivo');
-}
-else if (numero<0){
-    alert('Número negativo');
-}
-else{
-    alert('Número nulo');
+let pontuação = prompt("Digite sua pontuação:");
+if (pontuação >= 1000) {
+    alert("Parabéns, você venceu!");
+
+} else {
+    alert("Tente novamente para ganhar.");
 }
