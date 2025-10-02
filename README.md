@@ -94,9 +94,9 @@ verificador-pontuacao/
 
 * Implementar sistema de ranking
 
-*Adicionar validação de entrada (apenas números)
+* Adicionar validação de entrada (apenas números)
 
-*Criar interface visual mais elaborada
+* Criar interface visual mais elaborada
 
 ## 🤝 Contribuindo
 ### Contribuições são bem-vindas! Para contribuir:
