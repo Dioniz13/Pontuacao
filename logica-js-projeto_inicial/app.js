@@ -1,5 +1,5 @@
 let pontuação = prompt("Digite sua pontuação:");
-if (pontuação >= 1000) {
+if (pontuação >= 100) {
     alert("Parabéns, você venceu!");
 
 } else {
